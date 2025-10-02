@@ -35,11 +35,11 @@ An **E-commerce Website** built with **Next.js** and **React**, designed for smo
 git clone https://github.com/aqib-mansoor/QuickCart-Nextjs.git
 cd QuickCart-Nextjs
 
-#Install dependencies
+2️⃣ Install dependencies
 
 npm install
 
-#Run the development server
+3️⃣ Run the development server
 
 npm run dev
 
