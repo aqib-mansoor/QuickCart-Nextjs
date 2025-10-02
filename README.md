@@ -36,9 +36,11 @@ git clone https://github.com/aqib-mansoor/QuickCart-Nextjs.git
 cd QuickCart-Nextjs
 
 ### 2️⃣ Install dependencies
+```bash
 npm install
 
 ### 3️⃣ Run the development server
+```bash
 npm run dev
 
 
