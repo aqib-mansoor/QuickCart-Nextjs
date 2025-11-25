@@ -2,7 +2,6 @@
 
 An **E-commerce Website** built with **Next.js** and **React**, designed for smooth shopping experiences with a clean and responsive UI.
 
----
 
 ## 🚀 Features
 
@@ -18,7 +17,6 @@ An **E-commerce Website** built with **Next.js** and **React**, designed for smo
 ### ⚡ State Management
 - React state management for cart, products, and checkout flow  
 
----
 
 ## 🛠️ Tech Stack
 - **Next.js** (Frontend Framework)  
